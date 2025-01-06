@@ -1,0 +1,1 @@
+# terminal me bas type karo (python) tu command promp pop up hota aapke liye au isse baha aana ctrl+d se
