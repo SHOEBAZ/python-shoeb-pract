@@ -10,6 +10,7 @@ students.append("sss")
 students.remove("eb")
 print (students)
 #print(type(students and student))
-
+# setbhi list and tuple jesa hi hai but isme unique elements hi reh sakte same nahi 
 # List are mutable and Tuple is immutables( we can say tuple is list which cant be resized) aur tuple hum waha us karte jaha hume fix chahiye jese admin ek grooup me agar zada honge ya kisi ne add kiye u issue honga
 # tuple is better in memory point of view  box use karte list ke liye [] aur  round for tuple ()
+# List ke liye [], tuple ke liye (), set ke liye {}
